@@ -15,7 +15,7 @@ user experience.
 
 
 
-![Calculator Screenshot]("assets/screenshot.png")
+![Calculator Screenshot](assets/screenshot.png)
 
 ------------------------------------------------------------------------
 
