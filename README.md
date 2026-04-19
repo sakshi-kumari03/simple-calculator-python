@@ -15,7 +15,10 @@ user experience.
 
 
 
-![Calculator Screenshot](assets/screenshot.png)
+![Calculator Screenshot]
+<p align="center">
+  <img src="assets/screenshot.png" width="300">
+</p>
 
 ------------------------------------------------------------------------
 
